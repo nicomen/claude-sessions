@@ -1,0 +1,13 @@
+# Standard CPAN exclusions
+\bRCS\b
+\bCVS\b
+^\.git
+^\.gitignore
+^Makefile$
+^blib/
+^pm_to_blib
+^MYMETA\.
+^\.DS_Store
+^saisons-bundle$
+^fatlib/
+^fatpacker\.trace$
