@@ -1,0 +1,9 @@
+.serena/
+Makefile
+MYMETA.*
+blib/
+pm_to_blib
+fatlib/
+fatpacker.trace
+packlists
+
